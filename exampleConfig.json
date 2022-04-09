@@ -1,0 +1,23 @@
+{
+    "server": {
+        "url": "https://beta.meet.jit.si"
+    },
+    "(moderator)": {
+      "username": "admin",
+      "password": "admin"
+    },
+    "room": {
+        "room": "modbotexample",
+        "subject": "Exploring ModBot",
+        "passcode": "123",
+        "lobbyEnabled": false
+    },
+    "conference": {
+        "duration": 10000,
+        "waitForFirstUser": false,
+        "kickAll": false
+    },
+    "bot": {
+        "hidden": false
+    }
+}
